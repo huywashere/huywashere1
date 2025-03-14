@@ -1,7 +1,7 @@
 [
     {
         "title": "Email",
-        "href": "mailto:amin@webdevamin.com",
+        "href": "mailto:huywashere@gmail.com",
         "icon": {
             "name": "faEnvelope",
             "brands": false
@@ -11,7 +11,7 @@
     },
     {
         "title": "Facebook",
-        "href": "https://www.facebook.com/a.webdevamin",
+        "href": "https://www.facebook.com/huywashere",
         "icon": {
             "name": "faFacebookF",
             "brands": true
@@ -19,29 +19,31 @@
         "hideFromHeader": false,
         "hideFromFooter": false
     },
+
     {
-        "title": "Instagram",
-        "href": "https://www.instagram.com/webdevamin",
+        "title": "Twitter",
+        "href": "https://www.x.com/nphuhuy",
         "icon": {
-            "name": "faInstagram",
+            "name": "faTwitter",
             "brands": true
         },
         "hideFromHeader": false,
         "hideFromFooter": false
     },
     {
-        "title": "Google",
-        "href": "https://goo.gl/maps/KuPJhuTuNv2rK7RNA",
+        "title": "Reddit",
+        "href": "https://www.reddit.com/user/nguyenphuhuy/",
         "icon": {
-            "name": "faGoogle",
+            "name": "faReddit",
             "brands": true
         },
         "hideFromHeader": false,
         "hideFromFooter": false
     },
+    
     {
         "title": "LinkedIn",
-        "href": "https://www.linkedin.com/company/webdevamin",
+        "href": "https://www.linkedin.com/in/nguyenphuhuy/",
         "icon": {
             "name": "faLinkedinIn",
             "brands": true
@@ -51,7 +53,7 @@
     },
     {
         "title": "GitHub",
-        "href": "https://github.com/webdevamin",
+        "href": "https://github.com/huywashere",
         "icon": {
             "name": "faGithub",
             "brands": true

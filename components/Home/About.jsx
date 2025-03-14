@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import ButtonOne from '../Buttons/ButtonOne';
 import Heading from '../Heading';
-
 const About = ({ content }) => {
     const { title, text, subtitle, img, button } = content;
     const { src, alt } = img;

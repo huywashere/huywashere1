@@ -159,7 +159,7 @@ const Footer = ({ services, blogs, socials, regions, pages, followExternalLinks 
                         </li>
                     </ul>
                 </div>
-            </div>
+            </div>  
         </footer>
     )
 }

@@ -1,13 +1,13 @@
 [
     {
-        "name": "Belgium",
-        "slug": "belgium",
+        "name": "Vietnam",
+        "slug": "vietnam",
         "showcase": true,
         "locale": "en",
         "seo": {
-            "title": "Affordable Web Designer Belgium",
-            "description": "Looking for an affordable web agency for your business in Belgium to create a website or app? Look no further. Contact me.",
-            "canonical": "https://webdevamin.com/regions/belgium"
+            "title": "Affordable Web Designer Vietnam",
+            "description": "Looking for an affordable web agency for your business in Vietnam to create a website or app? Look no further. Contact me.",
+            "canonical": "https://webdevamin.com/regions/vietnam"
         },
         "alternates": [
             {
@@ -26,7 +26,7 @@
             }
         ],
         "hero": {
-            "title": "Affordable Web Designer & Developer Belgium",
+            "title": "Affordable Web Designer & Developer Vietnam",
             "text": "<p>Looking for an affordable web agency to develop a website/app for your business in Belgium? Look no further. Feel free to contact me.</p>",
             "button": [
                 {
