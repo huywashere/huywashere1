@@ -19,29 +19,32 @@
         "hideFromHeader": false,
         "hideFromFooter": false
     },
+
     {
-        "title": "Instagram",
-        "href": "https://www.instagram.com/justonlyhuy",
+        "title": "X",
+        "href": "https://www.x.com/nphuhuy",
         "icon": {
-            "name": "faInstagram",
+            "name": "faXTwitter",
             "brands": true
         },
         "hideFromHeader": false,
         "hideFromFooter": false
     },
+
     {
-        "title": "Google",
-        "href": "https://goo.gl/maps/KuPJhuTuNv2rK7RNA",
+        "title": "Stack Overflow",
+        "href": "https://stackoverflow.com/users/29986737/phu-huy-nguyen",
         "icon": {
-            "name": "faGoogle",
+            "name": "faStackOverflow",
             "brands": true
         },
         "hideFromHeader": false,
         "hideFromFooter": false
     },
+    
     {
         "title": "LinkedIn",
-        "href": "https://www.linkedin.com/company/nguyenphuhuy",
+        "href": "https://www.linkedin.com/in/nguyenphuhuy/",
         "icon": {
             "name": "faLinkedinIn",
             "brands": true

@@ -21,20 +21,21 @@
     },
 
     {
-        "title": "Twitter",
+        "title": "X",
         "href": "https://www.x.com/nphuhuy",
         "icon": {
-            "name": "faTwitter",
+            "name": "faXTwitter",
             "brands": true
         },
         "hideFromHeader": false,
         "hideFromFooter": false
     },
+
     {
-        "title": "Reddit",
-        "href": "https://www.reddit.com/user/nguyenphuhuy/",
+        "title": "Stack Overflow",
+        "href": "https://stackoverflow.com/users/29986737/phu-huy-nguyen",
         "icon": {
-            "name": "faReddit",
+            "name": "faStackOverflow",
             "brands": true
         },
         "hideFromHeader": false,
