@@ -28,8 +28,7 @@
             "brands": true
         },
         "hideFromHeader": false,
-        "hideFromFooter": false,
-        "updatedBy": "huywashere"
+        "hideFromFooter": false
     },
 
     {
@@ -62,5 +61,16 @@
         },
         "hideFromHeader": false,
         "hideFromFooter": false
+    },
+    {
+        "title": "Telegram",
+        "href": "http://t.me/nguyenphuhuy",
+        "icon": {
+            "name": "faTelegram",
+            "brands": true
+        },
+        "hideFromHeader": false,
+        "hideFromFooter": false
     }
+    
 ]
