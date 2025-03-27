@@ -22,7 +22,7 @@ const Seo = ({ seo, alternates, noIndex = false, includeCompanyName = false }) =
             {
                 (noIndex) && <meta name="robots" content="noindex,nofollow" />
             }
-            <title>{includeCompanyName ? `${title} | Michael ` : title}</title>
+            <title>{includeCompanyName ? `${title} | Huywashere ` : title}</title>
             <meta name="description" content={description} />
             {keywords && <meta name="keywords" content={keywords} />}
             <meta property="og:title" content={includeCompanyName ? `${defaultOgTitle} | Webdevamin` : defaultOgTitle} />
