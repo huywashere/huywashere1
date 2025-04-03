@@ -25,7 +25,7 @@ const Seo = ({ seo, alternates, noIndex = false, includeCompanyName = false }) =
             <title>{includeCompanyName ? `${title} | Huywashere ` : title}</title>
             <meta name="description" content={description} />
             {keywords && <meta name="keywords" content={keywords} />}
-            <meta property="og:title" content={includeCompanyName ? `${defaultOgTitle} | Webdevamin` : defaultOgTitle} />
+            <meta property="og:title" content={includeCompanyName ? `${defaultOgTitle} | Huywashere` : defaultOgTitle} />
             <meta property="og:image" content={defaultImage} />
             <meta property='og:image:width' content='1200' />
             <meta property='og:image:height' content='630' />
@@ -38,7 +38,7 @@ const Seo = ({ seo, alternates, noIndex = false, includeCompanyName = false }) =
             <link rel="canonical" href={canonical} />
             <meta name="twitter:card" content="summary_large_image" />
             <meta name="twitter:creator" content="@Webdevamin" />
-            <meta name="twitter:title" content={includeCompanyName ? `${defaultOgTitle} | Webdevamin` : defaultOgTitle} />
+            <meta name="twitter:title" content={includeCompanyName ? `${defaultOgTitle} | Huywashere` : defaultOgTitle} />
             <meta name="twitter:description" content={defaultOgDescription} />
             <meta name="twitter:image" content={defaultImage} />
             <meta name="twitter:url" content={canonical} />
